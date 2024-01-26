@@ -1,3 +1,5 @@
 echo "hello world"
 echo "git is confusing"
 echo "git is hard"
+echo "git is easy"
+echo "2+2=4"
